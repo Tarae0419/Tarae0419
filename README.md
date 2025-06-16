@@ -23,5 +23,4 @@
 
 **Backend:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-**Game Dev:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
-
+**Game Dev:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
