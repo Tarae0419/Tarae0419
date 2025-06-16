@@ -14,7 +14,7 @@
 - 💰 [KB IT's your life Skeleton Project](https://github.com/dlgkrwns213/moneyLover)  
   자산 관리 앱의 프론트엔드 참여
 - 👴 [2025 공공데이터 활용 공모전](https://github.com/senior-way/Senior-Way-FE)  
-  부산 노년층 대상 체험 서비스 추천 웹앱 프론트엔드 참여
+  부산 인근 지역 노인분 맞춤형 관광지 추천 웹사이트 프론트엔드 참여
 
 ## 🛠 Stack  
 **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
