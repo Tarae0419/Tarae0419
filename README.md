@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 - 🎮 [MSW2022](https://maplestoryworlds.nexon.com/ko/play/05025fe575804c14a173169153a48808/)  
-  넥슨 메이플스토리 월드 기반 게임 제작
+  넥슨 메이플스토리 월드 툴을 사용하여 pvp 게임 제작
 - 🧾 [유니티 텍스트 게임](https://github.com/Tarae0419/TextGame)  
   텍스트 TRPG 게임 제작
 - 💰 [KB IT's your life Skeleton Project](https://github.com/dlgkrwns213/moneyLover)  
