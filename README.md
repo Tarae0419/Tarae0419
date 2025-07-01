@@ -9,11 +9,13 @@
 ## 🚀 Projects
 - 🎮 [MSW2022](https://maplestoryworlds.nexon.com/ko/play/05025fe575804c14a173169153a48808/)  
   넥슨 메이플스토리 월드 툴을 사용하여 pvp 게임 제작
-- 🧾 [유니티 텍스트 게임](https://github.com/Tarae0419/TextGame)  
-  텍스트 TRPG 게임 제작
-- 💰 [KB IT's your life Skeleton Project](https://github.com/dlgkrwns213/moneyLover)  
+- 🎮 [유니티 텍스트 게임](https://github.com/Tarae0419/TextGame)  
+  텍스트 TRPG 게임 기획 및 개발
+- 🎮 [경기 게임잼 X 스마일게이트 비버잼 2023](https://github.com/rlatkddn212/NewClear)
+- 타이쿤 게임 시스템 기획 및 UI 개발 
+- 💻 [KB IT's your life Skeleton Project](https://github.com/dlgkrwns213/moneyLover)  
   자산 관리 앱의 프론트엔드 참여
-- 👴 [2025 공공데이터 활용 공모전](https://github.com/senior-way/Senior-Way-FE)  
+- 💻 [2025 공공데이터 활용 공모전](https://github.com/senior-way/Senior-Way-FE)  
   부산 인근 지역 노인분 맞춤형 관광지 추천 웹사이트 프론트엔드 참여
 
 # 🛠 Stack  
