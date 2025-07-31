@@ -16,7 +16,10 @@
 - 💻 [KB IT's your life Skeleton Project](https://github.com/dlgkrwns213/moneyLover)  
   자산 관리 앱의 프론트엔드 참여
 - 💻 [2025 공공데이터 활용 공모전](https://github.com/senior-way/Senior-Way-FE)  
-  부산 인근 지역 노인분 맞춤형 관광지 추천 웹사이트 프론트엔드 참여
+  부산 인근 지역 노인분 맞춤형 관광지 추천 웹사이트 프론트엔드 참여[진행중]
+- 💻 [KB IT's your life Final Project](https://github.com/FinPickTeam/FinPickTeam_BE)
+- 금융이 처음인 사람도 쉽게 이해하고 내게 맞는 금융상품을 추천받는 웹앱 백엔드 참여[진행중]
+  
 
 # 🛠 Stack  
 **Languages:**  
