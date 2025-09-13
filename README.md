@@ -20,7 +20,7 @@
 - 💻 [KB IT's Your Life Final Project](https://github.com/FinPickTeam/FinPickTeam_BE)
 - 금융이 처음인 사람도 쉽게 이해하고 내게 맞는 금융상품을 추천받는 웹앱 백엔드 참여
 - 💻 [KB IT's Your Life 해커톤](https://github.com/Switch-OnOff/onoff-be)
-- 백엔드 참여[진행중]
+- 소상공인을 위한 대출 가이드, 공공지원금 정보, 마케팅 팁을 모은 커뮤니티형 웹앱 풀스택 참여
 
 # 🛠 Stack  
 **Languages:**  
